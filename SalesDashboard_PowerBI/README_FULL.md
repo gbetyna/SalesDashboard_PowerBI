@@ -80,6 +80,8 @@ Sales per Employee = DIVIDE([Total Sales], DISTINCTCOUNT(SalesData[Salesperson])
 - Region / Country  
 - Salesperson
 
+---
+
 ## Author
 Created by **Grzegorz Betyna**
 GitHub: [github.com/gbetyna](https://github.com/gbetyna)
