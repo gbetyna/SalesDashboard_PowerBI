@@ -50,6 +50,7 @@ Steps performed in Power Query:
 Total Sales = SUM(SalesData[Sales])
 ```
 **2. Orders Count**
+```DAX
 Orders Count = DISTINCTCOUNT(SalesData[InvoiceNo])
 ```
 3. Average Order Value
