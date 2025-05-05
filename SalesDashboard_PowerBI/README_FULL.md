@@ -81,4 +81,5 @@ Sales per Employee = DIVIDE([Total Sales], DISTINCTCOUNT(SalesData[Salesperson])
 - Salesperson
 
 ## Author
-Grzegorz Betyna
+Created by **Grzegorz Betyna**
+GitHub: [github.com/gbetyna](https://github.com/gbetyna)
