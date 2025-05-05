@@ -16,7 +16,7 @@ An interactive retail sales dashboard built with Power BI using KPIs, DAX, and P
 
 ## 📸 Screenshot
 
-![Dashboard Preview](SalesDashboard_PowerBI/screenshots/dashboard_preview.png)
+[Dashboard Preview](SalesDashboard_PowerBI/screenshots/dashboard_preview.png)
 
 ## 📁 Files
 - `SalesDashboard.pbix` – Power BI project file  
@@ -29,7 +29,7 @@ An interactive retail sales dashboard built with Power BI using KPIs, DAX, and P
 ## 📄 Full Documentation
 
 For a detailed breakdown of the project, please refer to the  
-👉 [Full Extended Documentation](README_FULL.md)
+👉 [Full Extended Documentation](SalesDashboard_PowerBI/README_FULL.md)
 
 ---
 
@@ -42,7 +42,7 @@ GitHub: [github.com/gbetyna](https://github.com/gbetyna)
 
 ## 📄 License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [MIT License](SalesDashboard_PowerBI/LICENSE).
 
 
 
