@@ -8,7 +8,6 @@ A business dashboard built in Power BI that visualizes key retail sales metrics 
 - `README.md` – project description and documentation
 - `.gitignore` – excludes system files
 - `screenshots/` – includes dashboard preview image
-- `docs/` – step-by-step Word instructions
 
 ## Technologies
 - Power BI Desktop
