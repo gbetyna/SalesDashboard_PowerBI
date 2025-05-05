@@ -25,10 +25,24 @@ Retail Sales Dashboard project built in Power BI using KPIs, DAX and Power Query
 - `.gitignore` – basic ignore rules  
 - `README.md` – main project description  
 
-## 👤 Author
-Created by **Grzegorz Betyna**
+---
 
 ## 📄 Full Documentation
 
-For a detailed breakdown of the project, please refer to the [Full Extended Documentation](SalesDashboard_PowerBI/README_FULL.md).
+For a detailed breakdown of the project, please refer to the  
+👉 [Full Extended Documentation](SalesDashboard_PowerBI/README.md)
+
+---
+
+## 👤 Author
+
+Created by **Grzegorz Betyna**  
+GitHub: [github.com/gbetyna](https://github.com/gbetyna)  
+
+---
+
+## 📄 License
+
+This project is licensed under the [MIT License](LICENSE).
+
 
