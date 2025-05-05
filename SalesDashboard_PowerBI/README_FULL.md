@@ -8,8 +8,7 @@ This document contains a full breakdown of the **Sales Dashboard – Power BI Pr
 
 To create an interactive sales dashboard in Power BI using a retail dataset. The dashboard provides management-level insight into sales performance across time, regions, and categories.
 
-**Note:** The dashboard interface uses a mix of English and Polish formatting.  
-Month names and labels are in English, while number formatting follows Polish conventions (e.g., `tys.` for thousands, comma as decimal separator).
+**Note:** The dashboard interface uses a mix of English and Polish formatting. Month names and labels are in English, while number formatting follows Polish conventions (e.g., `tys.` for thousands, comma as decimal separator).
 
 ---
 
