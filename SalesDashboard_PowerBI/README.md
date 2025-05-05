@@ -60,9 +60,7 @@ Average Order Value = DIVIDE([Total Sales], [Orders Count])
 **4. Sales per Employee
 ```DAX
 Sales per Employee = DIVIDE([Total Sales], DISTINCTCOUNT(SalesData[Salesperson]))
----
-
-
+```
 
 ## 📊 Dashboard Components
 
