@@ -16,7 +16,8 @@ Retail Sales Dashboard project built in Power BI using KPIs, DAX and Power Query
 
 ## 📸 Screenshot
 
-![Dashboard Preview](https://raw.githubusercontent.com/gbetyna/SalesDashboard_PowerBI/main/screenshots/dashboard_preview.png)
+![image](https://github.com/user-attachments/assets/3238d426-07e7-49d4-aa51-fa1864bb21d3)
+
 
 ## 📁 Files
 - `SalesDashboard.pbix` – Power BI project file  
