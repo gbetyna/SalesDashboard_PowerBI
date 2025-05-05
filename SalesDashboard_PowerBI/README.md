@@ -48,10 +48,10 @@ Steps performed in Power Query:
 **1. Total Sales**
 ```DAX
 Total Sales = SUM(SalesData[Sales])
+```
 **2. Orders Count**
-```DAX
 Orders Count = DISTINCTCOUNT(SalesData[InvoiceNo])
-
+```
 3. Average Order Value
 Average Order Value = DIVIDE([Total Sales], [Orders Count])
 4. Sales per Employee
