@@ -6,8 +6,7 @@ This document contains a full breakdown of the **Sales Dashboard – Power BI Pr
 
 ## 📌 Project Objective
 
-To create an interactive sales dashboard in Power BI using a retail dataset.  
-The dashboard provides management-level insight into sales performance across time, regions, and categories.
+To create an interactive sales dashboard in Power BI using a retail dataset. The dashboard provides management-level insight into sales performance across time, regions, and categories.
 
 ---
 
