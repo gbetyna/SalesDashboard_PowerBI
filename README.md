@@ -16,7 +16,7 @@ An interactive retail sales dashboard built with Power BI using KPIs, DAX, and P
 
 ## 📸 Screenshot
 
-![Dashboard Preview](screenshots/dashboard_preview.png)
+![Dashboard Preview](SalesDashboard_PowerBI/screenshots/dashboard_preview.png)
 
 ## 📁 Files
 - `SalesDashboard.pbix` – Power BI project file  
